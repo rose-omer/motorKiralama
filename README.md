@@ -1,13 +1,13 @@
 Motor Kiralama Web Sitesi
 Bu depo, çeşitli motosikletleri görüntüleme ve rezervasyon yapma imkanı sunan şık bir Motor Kiralama web sitesinin kodlarını içermektedir. Web sitesi, estetik bir tasarım anlayışıyla HTML, CSS ve JavaScript kullanılarak oluşturulmuş, stil için Bootstrap çerçevesini başarılı bir şekilde entegre etmiştir.
 
--İçindekiler
-Giriş
-Özellikler
-Kullanım
-Bağımlılıklar
-Katılım
-Lisans
+- İçindekiler
+- Giriş
+- Özellikler
+- Kullanım
+- Bağımlılıklar
+- Katılım
+- Lisans
 Giriş
 Motor Kiralama web sitesi, kullanıcılarına şık bir arayüzle çeşitli motosikletleri görüntüleme ve kolayca rezervasyon yapma imkanı sunar. Modern tasarımıyla dikkat çeken bu web sitesi, kullanıcıların rahat bir gezinme deneyimi yaşamalarını hedefler.
 
